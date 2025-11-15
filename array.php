@@ -17,7 +17,7 @@ print_r($sonlar);
 echo "\n";
 $car = ["model" => "Cobalt", "brand" => "Chevrolet", "year" => 2025];
 // print_r($car)
-modeecho $car["l"];
+echo $car["model"];
 echo "\n";
 
 
